@@ -5,5 +5,5 @@ var a=prompt ("Welcome to Happy New Year website! If you want to see our Happy N
     }
 
     if (a=="No"){
-      window.location.href="content.html"
+      window.location.href="index.html"
     }
