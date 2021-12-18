@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.intro p {
+  color: cyan;
+  font-size: 4vw;
+  font-family: lobster;
+}
+
+.logo img {
+  height: 60vh;
+}
+
+body {
+  background-color: #000;
+}
+
+ul {
+  float: right;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul li a {
+  font-size: 2vw;
+  text-decoration: none;
+  color: white;
+  font-family: lobster;
+  transition: 0.6s ease;
+}
+
+ul li a:hover {
+  color: yellow;
+}
+
+.t1 h1 {
+  color: lime;
+  font-size: 4vw;
+  font-family: lobster;
+}
+
+.t1 p {
+  color: cyan;
+  font-size: 2vw;
+  font-family: lobster;
+}
+
+.t2 h1 {
+  color: lime;
+  font-size: 4vw;
+  font-family: lobster;
+}
+
+.t2 p {
+  color: cyan;
+  font-size: 2vw;
+  font-family: lobster;
+}
